@@ -1,5 +1,5 @@
 # -------------------------------------------------------------------------
-# AUTHOR: your name
+# AUTHOR: Andy Munoz
 # FILENAME: title of the source file
 # SPECIFICATION: description of the program
 # FOR: CS 4210- Assignment #5
